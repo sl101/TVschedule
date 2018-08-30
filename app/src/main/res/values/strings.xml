@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Телепрограма</string>
+
+    <string name="urlRoot">http://tvgid.ua</string>
+    <string name="action">Search</string>
+    <string name="no_data">Нет данных</string>
+    <string name="no_internet">Для обновления данных необходимо интернет соединение.</string>
+    <string name="data_not_get"> Данные недоступны.\n Попробуйте позже.</string>
+    <string name="not_activated"> Нет информации</string>
+
+    <string name="wait">Подождите, пожалуйста...</string>
+
+    <string name="menu_all">Все</string>
+    <string name="menu_favourit">Выбранные</string>
+
+    <string name="all_list">Весь день</string>
+    <string name="favourit_list">Отмеченные</string>
+    <string name="my_shedule">Моя программа</string>
+
+    <string-array name="screen_array">
+        <item>Все</item>
+        <item>Избранное</item>
+    </string-array>
+
+    <string-array name="days_of_week">
+        <item>понеділок</item>
+        <item>вівторок</item>
+        <item>середа</item>
+        <item>четвер</item>
+        <item>п"'"ятниця</item>
+        <item>субота</item>
+        <item>неділя</item>
+
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_timetable">Timetable</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

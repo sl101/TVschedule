@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.group.zh.s.tv_schedule.MyActivity">
+    <item
+        android:id="@+id/all_list"
+        android:title="@string/all_list"
+        >
+    </item>
+    <item
+        android:id="@+id/favourit_list"
+        android:title="@string/favourit_list">
+    </item>
+    <item
+        android:id="@+id/my_shedule"
+        android:title="@string/my_shedule">
+    </item>
+</menu>
